@@ -6,6 +6,13 @@ tutorabc上课情况，从3月起开始记录
 
 
 
+### 22/04/05
+
+- [Where are the DVDs?](./2020/tutor-02.md)
+
+### 22/04/04
+7:30 - 8:15
+
 ### 22/04/03
 
 - [Lucy's travels](./2020/tutor-01.md)
