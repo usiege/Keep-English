@@ -5,6 +5,10 @@ tutorabc上课情况，从3月起开始记录
 
 
 
+### 22/04/07
+
+- [We are watching TV](./2020/tutor-04.md)
+
 ### 22/04/06
 
 - [Vocabulary Conjunctions](./2020/tutor-03.md)
@@ -25,6 +29,7 @@ tutorabc上课情况，从3月起开始记录
 7:30 - 08:15
 
 ### 22/02
+
 - [TutorABC](./2020/TutorABC 试听课.md)
 - [流行病04](./2020/流行病04.md)
 
