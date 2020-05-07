@@ -3,7 +3,9 @@
 ## 2020
 tutorabc上课情况，从3月起开始记录
 
+### 22/05/07
 
+- [Richard in America](./2020/tutor-07.md)
 
 ### 22/04/21
 
