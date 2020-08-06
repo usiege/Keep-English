@@ -1,6 +1,5 @@
-我们收到报告说兽族的人正在重新集结。
-We've received reports that the orcs are regrouping.
-
+我们收到报告说兽族的人正在重新集结。<br>
+We've received reports that the orcs are regrouping. <br/>
 很明显，最近营地遭受到的攻击就是一个足好的证明。
 Certainly the recent attacks against the internment camps are evidence enough.
 同意，兽族似乎开始慢慢地活跃起来了。
