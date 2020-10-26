@@ -12,7 +12,7 @@ Let's carry on the next page.
 
 > Vocabulary
 > 
-> ![01](./img/bf01.png)
+>  ![01](./img/bf01.png)
 
 What emotions do you see in each picture?
 
